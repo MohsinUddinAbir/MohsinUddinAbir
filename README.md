@@ -1,4 +1,4 @@
-## Hi there 👋, I’m Mohsin Uddin from Bangladesh.
+## Hi there 👋, I’m Mohsin Uddin
 <!-- ---
 ![myBanner (1)](https://user-images.githubusercontent.com/109158340/193599388-2b57381b-4be1-4d05-9dac-0f5676c86b51.png)
 --- -->
@@ -316,7 +316,7 @@
 ---
 ### Contact with me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MohsinUddinAbir) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/linkedin.com/in/seydayoncaci/](https://www.linkedin.com/in/mohsin-uddin-b10872192/))
+[<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/MohsinUddinAbir) [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohsin-uddin-b10872192/) [<img src='https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-whatsapp-social-media-justicon-lineal-color-justicon.png' alt='github' height='40'>](https://wa.me/+8801789558610)
 
 ---
 ### :fire: My Stats :
