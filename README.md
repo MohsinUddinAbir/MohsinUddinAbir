@@ -2,10 +2,12 @@
 <!-- ---
 ![myBanner (1)](https://user-images.githubusercontent.com/109158340/193599388-2b57381b-4be1-4d05-9dac-0f5676c86b51.png)
 --- -->
-### :man_technologist: About Me :
+---
+### 👨‍💻 About Me :
 - I work as a Full-stack Developer.
 
-### My Skills: 
+---
+### 🥇 My Skills: 
 #### Languages, Frameworks, Libraries, and Tools:
 <div style="display: flex; align-items: flex-start; align: center">
   <table>
@@ -314,21 +316,13 @@
 
   
 ---
-### Contact with me:
+### 🤙 Contact with me:
 
 [<img src='https://skillicons.dev/icons?i=github' alt='github' height='40'>](https://github.com/MohsinUddinAbir) [<img src='https://skillicons.dev/icons?i=linkedin' alt='linkedin' height='40'>](https://www.linkedin.com/in/mohsin-uddin-b10872192/) [<img src='https://img.icons8.com/external-justicon-lineal-color-justicon/64/external-whatsapp-social-media-justicon-lineal-color-justicon.png' alt='github' height='40'>](https://wa.me/+8801789558610)
 
 ---
-### :fire: My Stats :
+### 🔥 My Stats:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinUddinAbir&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinUddinAbir&show_icons=true&theme=tokyonight)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohsinUddinAbir)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
-
-
-
-
-![snake](https://github.com/MohsinUddinAbir/MohsinUddinAbir/blob/main/github-snake.svg)
