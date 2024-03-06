@@ -283,14 +283,18 @@
       <br>Rails
       </td>
       <td align="center" width="96">
-        <img
-        src="https://skillicons.dev/icons?i=materialui" alt="icon" width="65" height="65" />
-        <br>MaterialUI
-      </td>
-      <td align="center" width="96">
       <img
     src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
       <br>.NET
+      </td>
+      <td align="center" width="96"><img
+    src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />  
+      <br>NestJs
+      </td>
+      <td align="center" width="96">
+        <img
+        src="https://skillicons.dev/icons?i=materialui" alt="icon" width="65" height="65" />
+        <br>MaterialUI
       </td>
       <td align="center" width="96"><img
     src="https://skillicons.dev/icons?i=d3" alt="icon" width="65" height="65" />
@@ -299,10 +303,6 @@
       <td align="center" width="96"><img
     src="https://skillicons.dev/icons?i=p5js" alt="icon" width="65" height="65" />
      <br>P5
-      </td>
-      <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />  
-      <br>NestJs
       </td>
       <td align="center" width="96"><img
     src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />  
