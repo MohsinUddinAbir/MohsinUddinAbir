@@ -1,9 +1,9 @@
-## Hi there 👋, I’m Mohsin Uddin
+## 👋 Hi there, I’m Mohsin Uddin
 <!-- ---
 ![myBanner (1)](https://user-images.githubusercontent.com/109158340/193599388-2b57381b-4be1-4d05-9dac-0f5676c86b51.png)
 --- -->
 ---
-### 👨‍💻 About Me :
+### 👨‍💻 About Me:
 - I work as a Full-stack Developer.
 
 ---
