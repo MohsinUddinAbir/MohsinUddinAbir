@@ -8,7 +8,7 @@
 
 ---
 ### 🥇 My Skills: 
-#### Languages, Frameworks, Libraries, and Tools:
+#### Languages, Frameworks, and Tools:
 <div style="display: flex; align-items: flex-start; align: center">
   <table>
     <tr>
