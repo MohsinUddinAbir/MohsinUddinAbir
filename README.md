@@ -333,7 +333,9 @@
 
 ---
 ### 🔥 My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinUddinAbir&langs_count=10&show_icons=true&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinUddinAbir&show_icons=true&theme=tokyonight)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohsinUddinAbir&langs_count=10&show_icons=true&theme=tokyonight&layout=compact&card_width=500px)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohsinUddinAbir&show_icons=true&theme=tokyonight&card_width=500px)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MohsinUddinAbir)](https://github.com/ryo-ma/github-profile-trophy)
 
