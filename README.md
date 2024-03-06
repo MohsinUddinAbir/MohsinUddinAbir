@@ -31,12 +31,12 @@
         <br>JAVA
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-        <br>C++
-      </td> -->
-      <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
         <br>C#
+      </td> -->
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <br>C++
       </td>
       <td align="center" width="96">
         <a href="#macropower-tech">
@@ -293,14 +293,14 @@
       <br>Rails
       </td>
       <td align="center" width="96">
+        <img
+    src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+     <br>C#
+      </td>
+      <td align="center" width="96">
       <img
     src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
       <br>.NET
-      </td>
-      <td align="center" width="96">
-        <img
-    src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />  
-      <br>NestJs
       </td>
       <td align="center" width="96">
         <img
@@ -309,18 +309,18 @@
       </td>
       <td align="center" width="96">
         <img
-    src="https://skillicons.dev/icons?i=vim" alt="icon" width="65" height="65" />
-     <br>Vim
+    src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />  
+      <br>NestJs
+      </td>
+      <td align="center" width="96">
+        <img
+    src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />  
+      <br>Java
       </td>
       <td align="center" width="96">
         <img
         src="https://skillicons.dev/icons?i=electron" alt="icon" width="65" height="65" />
         <br>Electron
-      </td>
-      <td align="center" width="96">
-        <img
-    src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />  
-      <br>Visual Studio
       </td>
     </tr>
 </table>
