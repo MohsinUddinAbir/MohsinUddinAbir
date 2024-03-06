@@ -1,5 +1,3 @@
-![Profile views](https://gpvc.arturio.dev/MohsinUddinAbir)
-
 ## Hi there 👋, I’m Mohsin Uddin from Bangladesh.
 ---
 ![myBanner (1)](https://user-images.githubusercontent.com/109158340/193599388-2b57381b-4be1-4d05-9dac-0f5676c86b51.png)
