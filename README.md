@@ -212,10 +212,9 @@
         <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="65" height="65" />
         <br>MongoDB
       </td>
-      <td align="center" width="96">
-        <img
-        src="https://skillicons.dev/icons?i=electron" alt="icon" width="65" height="65" />
-        <br>Electron
+      <td align="center" width="96"><img
+    src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />  
+      <br>Postman
       </td>
       <td align="center" width="96">
       <img
@@ -261,18 +260,27 @@
       <br>XD
       </td>
       <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=vim" alt="icon" width="65" height="65" />
-     <br>Vim
+    src="https://skillicons.dev/icons?i=p5js" alt="icon" width="65" height="65" />
+     <br>P5
       </td>
       <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=unity" alt="icon" width="65" height="65" />  
-      <br>Unity
+    src="https://skillicons.dev/icons?i=d3" alt="icon" width="65" height="65" />
+      <br>D3
       </td>
-      <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />  
-      <br>Visual Studio
+      <td align="center" width="96">
+        <img
+        src="https://skillicons.dev/icons?i=materialui" alt="icon" width="65" height="65" />
+        <br>MaterialUI
       </td>
-    </tr> 
+    </tr>
+  </table>
+</div>
+
+---
+### 🥈 My Learnings: 
+#### Languages, Frameworks, and Tools:
+<div style="display: flex; align-items: flex-start; align: center">
+<table>
     <tr>
       <td align="center" width="96">
         <img
@@ -289,31 +297,34 @@
     src="https://skillicons.dev/icons?i=dotnet" alt="icon" width="65" height="65" />
       <br>.NET
       </td>
-      <td align="center" width="96"><img
+      <td align="center" width="96">
+        <img
     src="https://skillicons.dev/icons?i=nestjs" alt="icon" width="65" height="65" />  
       <br>NestJs
       </td>
       <td align="center" width="96">
         <img
-        src="https://skillicons.dev/icons?i=materialui" alt="icon" width="65" height="65" />
-        <br>MaterialUI
+    src="https://skillicons.dev/icons?i=unity" alt="icon" width="65" height="65" />  
+      <br>Unity
       </td>
-      <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=d3" alt="icon" width="65" height="65" />
-      <br>D3
+      <td align="center" width="96">
+        <img
+    src="https://skillicons.dev/icons?i=vim" alt="icon" width="65" height="65" />
+     <br>Vim
       </td>
-      <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=p5js" alt="icon" width="65" height="65" />
-     <br>P5
+      <td align="center" width="96">
+        <img
+        src="https://skillicons.dev/icons?i=electron" alt="icon" width="65" height="65" />
+        <br>Electron
       </td>
-      <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=postman" alt="icon" width="65" height="65" />  
-      <br>Postman
+      <td align="center" width="96">
+        <img
+    src="https://skillicons.dev/icons?i=visualstudio" alt="icon" width="65" height="65" />  
+      <br>Visual Studio
       </td>
     </tr>
-  </table>
+</table>
 </div>
-
   
 ---
 ### 🤙 Contact with me:
