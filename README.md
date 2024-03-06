@@ -24,12 +24,6 @@
         </a>
         <br>Python
       </td>
-      <td align="center" width="96">
-        <a href="#macropower-tech">
-          <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
-        </a>
-        <br>PHP
-      </td>
       <!-- <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
         <br>JAVA
@@ -41,6 +35,12 @@
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
         <br>C#
+      </td>
+      <td align="center" width="96">
+        <a href="#macropower-tech">
+          <img src="https://skillicons.dev/icons?i=php" alt="icon" width="65" height="65" />
+        </a>
+        <br>PHP
       </td>
       <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
