@@ -6,9 +6,9 @@
 - I work as a Full-stack Developer.
 
 ### My Skills: 
-#### Languages, Frameworks, Libraries and Tools:
+#### Languages, Frameworks, Libraries, and Tools:
 <div style="display: flex; align-items: flex-start; align: center">
-  <table align="center">
+  <table>
     <tr>
       <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
