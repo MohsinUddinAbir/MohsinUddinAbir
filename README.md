@@ -6,7 +6,7 @@
 - I work as a Full-stack Developer.
 
 ### My Skills: 
-#### Languages and Tools:
+#### Languages, Frameworks, Libraries and Tools:
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
