@@ -273,6 +273,46 @@
         <br>MaterialUI
       </td>
     </tr>
+    
+    <tr>
+      <td align="center" width="96">
+        <img
+    src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+        <br>PhaserJs
+      </td>
+      <td align="center" width="96">
+      <img
+      src="https://skillicons.dev/icons?i=blender" alt="icon" width="65" height="65" />
+      <br>Cocos Creator
+      </td>
+      <td align="center" width="96">
+        <img
+        src="https://skillicons.dev/icons?i=ai" alt="icon" width="65" height="65" />
+        <br>Godot
+      </td>
+      <td align="center" width="96">
+      <img
+    src="https://skillicons.dev/icons?i=ps" alt="icon" width="65" height="65" />
+      <br>Colyseus
+      </td>
+      <td align="center" width="96"><img
+    src="https://skillicons.dev/icons?i=xd" alt="icon" width="65" height="65" />
+      <br>Socket.io
+      </td>
+      <td align="center" width="96"><img
+    src="https://skillicons.dev/icons?i=p5js" alt="icon" width="65" height="65" />
+     <br>P5
+      </td>
+      <td align="center" width="96"><img
+    src="https://skillicons.dev/icons?i=d3" alt="icon" width="65" height="65" />
+      <br>D3
+      </td>
+      <td align="center" width="96">
+        <img
+        src="https://skillicons.dev/icons?i=materialui" alt="icon" width="65" height="65" />
+        <br>MaterialUI
+      </td>
+    </tr>
   </table>
 </div>
 
