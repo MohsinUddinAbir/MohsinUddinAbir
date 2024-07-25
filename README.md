@@ -276,40 +276,40 @@
     <tr>
       <td align="center" width="96">
         <img
-    src="https://skillicons.dev/icons?i=figma" alt="icon" width="65" height="65" />
+    src="https://cdn.phaser.io/images/logo/logo-download.png" alt="icon" width="65" height="65" />
         <br>PhaserJs
       </td>
       <td align="center" width="96">
       <img
-      src="https://skillicons.dev/icons?i=blender" alt="icon" width="65" height="65" />
+      src="https://files.cocos2d-x.org/downloads/icons/1/medium_logo.jpg?1445233523" alt="icon" width="65" height="65" />
       <br>Cocos Creator
       </td>
       <td align="center" width="96">
         <img
-        src="https://skillicons.dev/icons?i=ai" alt="icon" width="65" height="65" />
+        src="https://godotengine.org/assets/press/icon_color.png" alt="icon" width="65" height="65" />
         <br>Godot
+      </td>
+      <td align="center" width="96"><img
+    src="https://socket.io/images/logo-dark.svg" alt="icon" width="65" height="65" />
+      <br>Socket.io
       </td>
       <td align="center" width="96">
       <img
-    src="https://skillicons.dev/icons?i=ps" alt="icon" width="65" height="65" />
+    src="https://docs.colyseus.io/images/logo-white.png" alt="icon" width="65" height="65" />
       <br>Colyseus
       </td>
       <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=xd" alt="icon" width="65" height="65" />
-      <br>Socket.io
+    src="https://skillicons.dev/icons?i=svelte" alt="icon" width="65" height="65" />
+     <br>Svelte
       </td>
       <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=p5js" alt="icon" width="65" height="65" />
-     <br>P5
-      </td>
-      <td align="center" width="96"><img
-    src="https://skillicons.dev/icons?i=d3" alt="icon" width="65" height="65" />
-      <br>D3
+    src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" alt="icon" width="65" height="65" />
+      <br>Ethereum
       </td>
       <td align="center" width="96">
         <img
-        src="https://skillicons.dev/icons?i=materialui" alt="icon" width="65" height="65" />
-        <br>MaterialUI
+        src="https://cryptologos.cc/logos/solana-sol-logo.png?v=032" alt="icon" width="65" height="65" />
+        <br>Solana
       </td>
     </tr>
   </table>
